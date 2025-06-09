@@ -21,5 +21,19 @@ is playing a very vital role in changing our life in many ways. There are many s
 technology in it. Now it’s time for evolution in very field. With the use of Artificial Intelligence every field is growing widely. 
 With this project our aim is to use AI in job sectors. This system can be use by any fresher or graduate. Our future aim to create same module 
 for companies oriented also, so with this application companies can directly shortlist the people using AI. We are using the core concepts of 
-Natural Language Processing for analysing the resume. This is just first step for implementing Artificial Intelligence in the field of Job Recruitment .
+Natural Language Processing for analysing the resume. This is just first step for implementing Artificial Intelligence in the field of Job Recruitment.
+
+Key Features:
+
+User login and secure resume upload
+
+Automated scoring based on predefined parameters
+
+Feedback to help students enhance their resumes
+
+Dashboard to view and compare candidate scores
+
+Built with Python and Streamlit for rapid development
+
+Uses XAMPP as the backend database server
 
